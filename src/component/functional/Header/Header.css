@@ -1,0 +1,25 @@
+.header-container {
+  display: flex;
+  background: #e6b729;
+  padding: 0px;
+  margin: 0px;
+  color: white;
+  font-size: 15px;
+  position: fixed;
+  width: 100%;
+  box-shadow: 0 3px 5px 0 #c1beb8;
+}
+
+.header-line-item {
+  list-style: none;
+  padding: 10px;
+  list-style: none;
+  text-decoration: none;
+  color: white;
+}
+.active {
+  color: white;
+  background: #5f4b2d;
+  list-style: none;
+  text-decoration: none;
+}

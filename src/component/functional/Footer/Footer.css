@@ -1,0 +1,8 @@
+.footer-container {
+  margin-top: auto;
+  background-color: burlywood;
+  position: absolute;
+  left: 0;
+  bottom: 0;
+  right: 0;
+}

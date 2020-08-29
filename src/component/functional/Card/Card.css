@@ -1,0 +1,47 @@
+.cart-header {
+  color: blueviolet;
+}
+
+.card-container {
+  flex-basis: 20%;
+  flex-grow: 1;
+  flex-shrink: 1;
+  margin: 10px;
+}
+
+.card-container:hover {
+  box-shadow: 0 3px 5px 0 #c1beb8;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+}
+
+.prod-name {
+  font-weight: bold;
+}
+
+.prod-desc-container {
+  text-align: left;
+
+  margin: 10px;
+}
+.image-container {
+  position: relative;
+}
+.cart-button {
+  position: absolute;
+  bottom: 15px;
+  margin: auto;
+  left: 0;
+  right: 0;
+  padding: 5px;
+  background: #ffc107;
+  color: white;
+  border: none;
+}
+
+.card-container :hover .cart-button {
+  box-shadow: 0 3px 5px 0 #c1beb8;
+}

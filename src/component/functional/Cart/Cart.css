@@ -1,0 +1,14 @@
+.cart-container {
+  display: flex;
+  align-items: center;
+  margin: auto;
+  justify-content: space-evenly;
+  width: 50%;
+}
+
+.image-cart {
+  width: 50px;
+}
+.cart {
+  margin-top: 20px;
+}
